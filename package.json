@@ -1,0 +1,9 @@
+{
+  "name": "boule-de-feu-serveur",
+  "version": "1.0.0",
+  "description": "Petit serveur relais pour le jeu Boule de feu",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
